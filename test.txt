@@ -1,4 +1,7 @@
 This has been cloned and edited
 
-This was added in the new-text branch
+
+This was added in the new-text branch, and then merged.
 This text too...
+But this was added on the original master branch. 
+
