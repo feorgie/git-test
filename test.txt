@@ -1,5 +1,10 @@
 This has been cloned and edited
 
+<<<<<<< HEAD
 This was added in the new-text branch, and then merged.
 
 But this was added on the original master branch. 
+=======
+This was added in the new-text branch
+This text too...
+>>>>>>> new-text
